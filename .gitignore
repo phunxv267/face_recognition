@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+*.jpg
+*.png
+
 # Distribution / packaging
 .Python
 build/
@@ -127,3 +130,21 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea/
+
+*.xlsx
+
+*.csv
+
+*.txt
+
+*.gs
+*.npy
+
+.vector_cache
+
+
+resources/
+
+sources/cv_modules/mtcnn-model/*
